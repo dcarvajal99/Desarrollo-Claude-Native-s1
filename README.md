@@ -74,7 +74,7 @@ Respuesta (resumen con costo de cada curso y total a pagar):
   "status": 201,
   "message": "Enrollment completed successfully",
   "data": {
-    "estudiante": "Carolina Solis",
+    "estudiante": "Carolina Solis, Diego ",
     "cursos": [
       { "cursoId": 1, "nombre": "Introduccion a Java", "costo": 120000 },
       { "cursoId": 2, "nombre": "Spring Boot desde cero", "costo": 180000 }
