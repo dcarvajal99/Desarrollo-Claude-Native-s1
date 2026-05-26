@@ -64,7 +64,7 @@ curl -X POST http://127.0.0.1:8080/api/cursos \
 ```bash
 curl -X POST http://127.0.0.1:8080/api/inscripciones \
   -H "Content-Type: application/json" \
-  -d '{"estudiante":"Diego Carvajal","cursoIds":[1,2]}'
+  -d '{"estudiante":"Diego","cursoIds":[1,2]}'
 ```
 
 Respuesta (resumen con costo de cada curso y total a pagar):
